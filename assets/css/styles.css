@@ -1,0 +1,20 @@
+/* Basic styles for the portfolio */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    background-color: #007acc;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
